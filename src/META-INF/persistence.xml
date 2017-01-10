@@ -6,6 +6,10 @@
 
 		<class>org.ynm.experiment1.Employee</class>
 		<class>org.ynm.experiment1.Contact</class>
+		
+		<class>org.ynm.inheritance.Employee</class>
+		<class>org.ynm.inheritance.FullTimeEmployee</class>
+		<class>org.ynm.inheritance.PartTimeEmployee</class>
 
 		<properties>
 			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jpad" />
