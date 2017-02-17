@@ -8,7 +8,7 @@ import javax.persistence.Persistence;
  * 
  * @author Yogesh.Manware
  * 
- * In this two separate table will get created 
+ * In this example, two separate tables will get created 
  * 
  * mysql> select * from fulltimeempl;
 +------------+--------+

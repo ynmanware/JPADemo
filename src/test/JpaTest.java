@@ -11,7 +11,7 @@ import javax.persistence.Query;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.ynm.experiment1.Employee;
+import org.ynm.crud.Employee;
 
 public class JpaTest {
 

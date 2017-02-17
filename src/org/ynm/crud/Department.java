@@ -1,4 +1,4 @@
-package org.ynm.experiment1;
+package org.ynm.crud;
 
 public class Department {
 	

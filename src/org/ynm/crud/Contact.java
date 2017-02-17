@@ -1,4 +1,4 @@
-package org.ynm.experiment1;
+package org.ynm.crud;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -24,5 +24,10 @@ public class Contact {
 	private String number;
 
 	private Employee employee;
+
+	@Override
+	public String toString() {
+		return id + " " + number;
+	}
 
 }
